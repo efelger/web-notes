@@ -1,0 +1,52 @@
+body {
+
+}
+
+wrapper {
+  width: 80%;
+  float: center;
+}
+
+.links {
+  padding-top: 40px;
+}
+
+/*****************
+FONTS
+******************/
+h1 {
+  font-family: Helvetica;
+  font-size: 36px;
+  letter-spacing: 0.5px;
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 24px;
+  font-weight: 600;
+  letter-spacing: 0.3px;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+h4 {
+    font-family: Helvetica;
+    font-size: 16px;
+    margin-bottom: 0px;
+}
+
+links p {
+    margin-top: 0px;
+}
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+  padding-top: .25rem;
+}
+
+div {
+  padding-left: .75rem;
+}
